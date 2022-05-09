@@ -62,5 +62,6 @@ input:focus {
   body {
     background-image: url(./images/pexels-emmet-712490.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
   }
 }
