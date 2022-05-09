@@ -23,7 +23,8 @@ h1 {
 }
 body {
   background-image: url(./images/pexels-rahul-716398.jpg);
-  background-size: cover;
+/*   background-size: cover; */
+   background-repeat: no-repeat;
 }
 
 label {
